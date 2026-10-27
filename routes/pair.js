@@ -145,14 +145,14 @@ router.get('/', async (req, res) => {
                                             name: 'cta_url',
                                             buttonParamsJson: JSON.stringify({
                                                 display_text: 'visit our site',
-                                                url: 'https://xploitdevkevin-pairing-site.onrender.com/'
+                                                url: 'https://sang-lee.vercel.app/'
                                             })
                                         },
                                         {
                                             name: 'cta_url',
                                             buttonParamsJson: JSON.stringify({
                                                 display_text: 'Join WaChannel',
-                                                url: 'https://whatsapp.com/channel/0029Vb725SbIyPtOEG92nA04'
+                                                url: 'https://whatsapp.com/channel/0029VbAuEfj29754YgFtRf33'
                                             })
                                         }
                                     ]
