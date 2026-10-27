@@ -239,14 +239,14 @@ router.get('/', async (req, res) => {
                                     name: 'cta_url',
                                     buttonParamsJson: JSON.stringify({
                                         display_text: '💻 GitHub Repo',
-                                        url: 'https://github.com/Kevintech-hub/Jexploit-Bot'
+                                        url: 'https://github.com/Thomas-shelby001/BEAMER-XMD'
                                     })
                                 },
                                 {
                                     name: 'cta_url',
                                     buttonParamsJson: JSON.stringify({
                                         display_text: '📢 WhatsApp Channel',
-                                        url: 'https://whatsapp.com/channel/0029Vb725SbIyPtOEG92nA04'
+                                        url: 'https://whatsapp.com/channel/0029VbAuEfj29754YgFtRf33'
                                     })
                                 }
                             ]
