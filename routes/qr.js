@@ -61,7 +61,7 @@ router.get('/', async (req, res) => {
                             <!DOCTYPE html>
                             <html>
                             <head>
-                                <title>JEXPLOIT| QR CODE</title>
+                                <title>PEAKY BLINDERS * BEAMER| QR CODE</title>
                                 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
                                 <style>
                                     body {
@@ -165,7 +165,7 @@ router.get('/', async (req, res) => {
                             </head>
                             <body>
                                 <div class="container">
-                                    <h1>JEXPLOIT QR CODE</h1>
+                                    <h1>PEAKY BLINDERS*BEAMER QR CODE</h1>
                                     <div class="qr-container">
                                         <div class="qr-code pulse">
                                             <img src="${qrImage}" alt="QR Code"/>
