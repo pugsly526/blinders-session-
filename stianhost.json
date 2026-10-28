@@ -1,0 +1,31 @@
+{
+  "name": "Your Bot Name",
+  "description": "A short description of what your bot does",
+  "platform": "whatsapp",
+  "runtime": "node",
+  "version": "1.0.0",
+  "install": "npm install",
+  "start": "node index.js",
+  "memory_limit": "150MB",
+  "web": true,
+  "visibility": "private",
+  "env": {
+    "SESSION_ID": {
+      "description": "Your WhatsApp session ID. Get it at pair.stiantech.me",
+      "required": true,
+      "type": "string"
+    },
+    "PREFIX": {
+      "description": "Bot command prefix",
+      "required": false,
+      "default": ".",
+      "type": "string"
+    },
+    "AUTO_READ": {
+      "description": "Mark incoming messages as read",
+      "required": false,
+      "default": "false",
+      "type": "boolean"
+    }
+  }
+}
